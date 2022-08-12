@@ -1,10 +1,14 @@
+const numberOfFilmes = prompt('Сколько фильмов вы уже посмотрели?','')
+
 
   
-  let values = ["Hare", "Krishna", "Hare", "Krishna",
-    "Krishna", "Krishna", "Hare", "Hare", ":-O"
-  ];
+  // let values = ["Hare", "Krishna", "Hare", "Krishna",
+  //   "Krishna", "Krishna", "Hare", "Hare", ":-O"
+  // ];
   
-
+// git add -A
+// git commit -a -m''
+// git push
 
 // const fruits = ['apple', 'banana', 'mango', 'guava'];
 
