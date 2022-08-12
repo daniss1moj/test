@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    width: 1140px;
+    grid: repeat(2, minmax(260px, auto) ) / repeat( auto-fill, 240px);
+    gap: 60px;
+    margin: 82px auto 0 auto;
+}
+
+.text {
+    margin-top: 15px;;
+}
+
